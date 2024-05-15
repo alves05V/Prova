@@ -1,0 +1,29 @@
+header
+{
+    background-color:  rgb(227, 74, 69);
+    position: fixed;
+    width: 100%;
+}
+
+nav
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+}
+
+.listaNav
+{
+    background-color:  rgb(227, 74, 69);
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.listaNav li
+{
+    font-size: 24px;
+    margin: 1rem;
+}

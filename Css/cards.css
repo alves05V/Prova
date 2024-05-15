@@ -1,0 +1,41 @@
+.cartao
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+.Cards
+{
+    border: 1px solid #fff;
+    width: 400px;
+    margin: 1rem;
+}
+
+
+.cardImage
+{
+    width: 100%;
+    padding: auto;
+    margin: auto;
+}
+
+.cardImage img
+{
+    width: 100%;
+}
+
+.cardTexto
+{
+    color: #000;
+    text-align: justify;
+    margin: auto;
+}
+
+footer 
+{
+    background-color:  rgb(227, 74, 69);
+    color: #000;
+    padding: 50px;
+    text-align: center;
+    height: 100px;
+}
